@@ -1,5 +1,5 @@
 ## Implementing CSP and LDA: A BCI (Brain Computer Interface) application
-In this repository, I implement Brain Computer Interface (BCI) using CSP (Constraint Satisfaction Problem) and LDA (Linear Discriminant Analysis) classifier.
+In this Project, I implemented  CSP (Constraint Satisfaction Problem) and LDA (Linear Discriminant Analysis) classifier for a BCI (Brain Computer Interface) application.
 
 **Signal Recording Protocol:** For the purpose of conducting the second National Brain-Computer Interface (BCI) competition, signals from 15 healthy right-handed individuals (5 females and 10 males) with an average age of 31 years have been recorded. The signal acquisition system utilized 64 channels with a sampling frequency of 2400 Hz, and a power line filter was active during data recording to eliminate city power noise. The signal ground was obtained from the forehead, and one of the channels was connected to the right ear as a reference channel (which has been removed from the dataset, resulting in 63 available data channels).
 
