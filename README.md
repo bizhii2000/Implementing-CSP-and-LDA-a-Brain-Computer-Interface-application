@@ -1,1 +1,1 @@
-# Implementing CSP and LDA: A BCI (Brain Computer Interface) application
+## Implementing CSP and LDA: A BCI (Brain Computer Interface) application
